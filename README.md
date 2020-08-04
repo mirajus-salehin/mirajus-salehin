@@ -30,6 +30,10 @@ I am a **student** and a **programmer** who is interested in many things. My wor
 ![VS code logo](https://github.com/mirajus-salehin/mirajus-salehin/blob/master/images/vscode_logo.png)
 ![NodeJS logo](https://github.com/mirajus-salehin/mirajus-salehin/blob/master/images/nodejs.png)
 ![qGIS logo](https://github.com/mirajus-salehin/mirajus-salehin/blob/master/images/qgis.png)
+![matplotlib logo](https://github.com/mirajus-salehin/mirajus-salehin/blob/master/images/matplotlib.png)
+![pandas logo](https://github.com/mirajus-salehin/mirajus-salehin/blob/master/images/pandas.png)
+![scikit-learn logo](https://github.com/mirajus-salehin/mirajus-salehin/blob/master/images/scikitlearn.png)
+![tensorflow logo](https://github.com/mirajus-salehin/mirajus-salehin/blob/master/images/tensorflow.png)
 
 ---
 ## Fun facts about me.. 😇
