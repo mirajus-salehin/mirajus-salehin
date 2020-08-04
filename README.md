@@ -11,7 +11,7 @@
 
 
 ## Hi there 👋 My name is Mirajus Salehin
-I am a **student** and a **programmer** who is interested in many things. My working principal is learning by doing. Always up for a discussion on coding, software building, AI and machine learning.
+I am a **student** and a **programmer** who is interested in many things. My working principal is learning by doing. Always up for a discussion on coding, software building, AI and machine learning. I can build clean UI for web and android applications. My field of expertise include Application(mobile/web),responsive design, a small pinch of Data visualization and machine learning.
 
 ---
 
