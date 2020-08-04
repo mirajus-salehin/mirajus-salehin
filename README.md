@@ -15,8 +15,21 @@ I am a **student** and a **programmer** who is interested in many things. My wor
 
 ---
 
-## I work with... 💻
-Python, C/C++, JavaScript, Dart, Processing
+## Languages and tools that I work with... 💻
+![Python logo](https://github.com/mirajus-salehin/mirajus-salehin/blob/master/images/python.png)
+![C logo](https://github.com/mirajus-salehin/mirajus-salehin/blob/master/images/C.png)
+![C++ logo](https://github.com/mirajus-salehin/mirajus-salehin/blob/master/images/C%2B%2B.png)
+![P3 logo](https://github.com/mirajus-salehin/mirajus-salehin/blob/master/images/processing3-logo.png)
+![Java logo](https://github.com/mirajus-salehin/mirajus-salehin/blob/master/images/java.png)
+![JS logo](https://github.com/mirajus-salehin/mirajus-salehin/blob/master/images/js.png)
+![Dart logo](https://github.com/mirajus-salehin/mirajus-salehin/blob/master/images/dart.png)
+![html logo](https://github.com/mirajus-salehin/mirajus-salehin/blob/master/images/html.png)
+![css logo](https://github.com/mirajus-salehin/mirajus-salehin/blob/master/images/css.png)
+![bootstarp logo](https://github.com/mirajus-salehin/mirajus-salehin/blob/master/images/bootstrap.png)
+![Git logo](https://github.com/mirajus-salehin/mirajus-salehin/blob/master/images/git_logo.png)
+![VS code logo](https://github.com/mirajus-salehin/mirajus-salehin/blob/master/images/vscode_logo.png)
+![NodeJS logo](https://github.com/mirajus-salehin/mirajus-salehin/blob/master/images/nodejs.png)
+![qGIS logo](https://github.com/mirajus-salehin/mirajus-salehin/blob/master/images/qgis.png)
 
 ---
 ## Fun facts about me.. 😇
