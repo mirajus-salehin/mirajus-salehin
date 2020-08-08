@@ -36,7 +36,7 @@ I am a **student** and a **programmer** who is interested in many things. My wor
 ![tensorflow logo](https://github.com/mirajus-salehin/mirajus-salehin/blob/master/images/tensorflow.png)
 
 ---
-[![Sayem's github stats](https://github-readme-stats.vercel.app/api?username=mirajus-salehin)](https://github.com/anuraghazra/github-readme-stats)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=mirajus-salehin)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## Fun facts about me.. 😇
