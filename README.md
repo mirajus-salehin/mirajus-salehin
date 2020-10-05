@@ -37,6 +37,7 @@ I am a **student** and a **programmer** who is interested in many things. My wor
 
 ---
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=mirajus-salehin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirajus-salehin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ## Fun facts about me.. 😇
