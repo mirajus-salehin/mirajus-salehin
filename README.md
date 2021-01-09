@@ -38,7 +38,11 @@ I am a **student** and a **programmer** who is interested in many things. My wor
 ---
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=mirajus-salehin)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirajus-salehin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+---
+[![trophy](https://github-profile-trophy.vercel.app/?username=mirajus-salehin)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=mirajus-salehin)  
 ---
 ## Fun facts about me.. 😇
 - love to do photo manipulation 
@@ -57,9 +61,7 @@ I am a **student** and a **programmer** who is interested in many things. My wor
 ## Reach me 📬
 You can connect me on 
 
-[![facebook profile][1.1]][1]
-[![instagram profile][2.1]][2]
-[![twitter profile][3.1]][3]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mirajus-salehin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mirazus-salehin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mirajus.salehinsayem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mirajus.salehinsayem/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mirajus_salehin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mirajus-salehin.vercel.app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Mirajus_Sayem)  
 
 
 ---
