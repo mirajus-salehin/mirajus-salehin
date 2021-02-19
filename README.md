@@ -19,7 +19,9 @@
 <a href="https://instagram.com/mirajus.salehinsayem" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
+<a>
+<img alt="Website" src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=http%3A%2F%2Fmirajussalehin.ninja" alt=portfolio style="margin-bottom: 5px;" />
+</a>
 
 
 
