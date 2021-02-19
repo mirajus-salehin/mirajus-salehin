@@ -95,7 +95,7 @@ Lastly, I've also participated in different hack-a-thons and programming contest
 
 <br/>  
 
-  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirajus-salehin)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <br/>  
 
