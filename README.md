@@ -101,7 +101,8 @@ Lastly, I've also participated in different hack-a-thons and programming contest
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
-  
+
+[![sayems github trophy](https://github-profile-trophy.vercel.app/?username=mirajus-salehin&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>  
 
