@@ -109,3 +109,4 @@ Lastly, I've also participated in different hack-a-thons and programming contest
 
 <br />
 
+<a href="https://app.daily.dev/ssayem"><img src="https://api.daily.dev/devcards/bb8c9c45636440149492a71ab979fba4.png?r=wxd" width="400" alt="sayem's Dev Card"/></a>
