@@ -19,10 +19,10 @@
 <a href="https://instagram.com/mirajus.salehinsayem" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-<a>
-<img alt="Website" src="https://img.shields.io/website?label=portfolio&style=for-the-badge&up_message=up&url=https%3A%2F%2Fmirajussalehin.ninja%2F" style="margin-bottom: 5px;" />
+<a href="https://mirajus-salehin.github.io">
+<img alt="Website" src="https://img.shields.io/website?label=PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fmirajus-salehin.github.io%2F">
 </a>
-
+<img src="https://img.shields.io/badge/CURRENTLY%20%20LEARNING-Julia-brightgreen?style=for-the-badge"> 
 
 ### Glad to see you here!  
 I am 22 years old studying B.Sc. in Agricultural Engineering at Bangladesh Agricultural University. I am a programmer who is interested in different things. I was also part of the Amazon Open Dev Group. I can build clean UI for web and android applications. My field of expertise includes Application(mobile/web), responsive design, a small pinch of Data visualization, and machine learning. Experiences also include anti-disciplinary team collaboration. I have also conducted research on COVID-19 with machine learning.
