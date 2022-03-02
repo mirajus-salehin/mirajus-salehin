@@ -22,6 +22,9 @@
 <a href="https://mirajus-salehin.github.io">
 <img alt="Website" src="https://img.shields.io/website?label=PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fmirajus-salehin.github.io%2F">
 </a>
+<a href="https://www.upwork.com/freelancers/~01cd4cb8d2a0d61a0a">
+<img src="https://img.shields.io/badge/HIRE%20ME%20ON-UPWORK-%2314a800?style=for-the-badge">
+</a>
 <img src="https://img.shields.io/badge/CURRENTLY%20%20LEARNING-Julia-brightgreen?style=for-the-badge"> 
 
 ### Glad to see you here!  
