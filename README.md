@@ -28,7 +28,7 @@
 <img src="https://img.shields.io/badge/CURRENTLY%20%20LEARNING-Julia-brightgreen?style=for-the-badge"> 
 
 ### Glad to see you here!  
-I am 22 years old studying B.Sc. in Agricultural Engineering at Bangladesh Agricultural University. I am a programmer who is interested in different things. I was also part of the Amazon Open Dev Group. I can build clean UI for web and android applications. My field of expertise includes Application(mobile/web), responsive design, a small pinch of Data visualization, and machine learning. Experiences also include anti-disciplinary team collaboration. I have also conducted research on COVID-19 with machine learning.
+I am 24 years old studying B.Sc. in Agricultural Engineering at Bangladesh Agricultural University. I am a programmer who is interested in different things. I was also part of the Amazon Open Dev Group. I can build clean UI for web and android applications. My field of expertise includes Application(mobile/web), responsive design, a small pinch of Data visualization, and machine learning. Experiences also include anti-disciplinary team collaboration. I have also conducted research on COVID-19 with machine learning.
 
 Lastly, I've also participated in different hack-a-thons and programming contests. I have also participated in Google Dev Fest two times.  
   
